@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.56a6bfdf.chunk.css",
-    "main.js": "/static/js/main.b983f6e1.chunk.js",
-    "main.js.map": "/static/js/main.b983f6e1.chunk.js.map",
+    "main.js": "/static/js/main.979aff20.chunk.js",
+    "main.js.map": "/static/js/main.979aff20.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5ebc510a.js",
     "runtime-main.js.map": "/static/js/runtime-main.5ebc510a.js.map",
     "static/css/2.ae9e5f60.chunk.css": "/static/css/2.ae9e5f60.chunk.css",
@@ -12,11 +12,12 @@
     "static/css/2.ae9e5f60.chunk.css.map": "/static/css/2.ae9e5f60.chunk.css.map",
     "static/css/main.56a6bfdf.chunk.css.map": "/static/css/main.56a6bfdf.chunk.css.map",
     "static/js/2.30c68ff8.chunk.js.LICENSE.txt": "/static/js/2.30c68ff8.chunk.js.LICENSE.txt",
+    "static/media/Appletv.56f8d5ea.png": "/static/media/Appletv.56f8d5ea.png",
     "static/media/Gitjaipur.18b0ffef.png": "/static/media/Gitjaipur.18b0ffef.png",
     "static/media/modsen.a37c2552.png": "/static/media/modsen.a37c2552.png",
     "static/media/myntra.03fdaf75.png": "/static/media/myntra.03fdaf75.png",
     "static/media/outlook.8f044213.png": "/static/media/outlook.8f044213.png",
-    "static/media/prateekresume.88837189.pdf": "/static/media/prateekresume.88837189.pdf",
+    "static/media/prateekresume.22d4db27.pdf": "/static/media/prateekresume.22d4db27.pdf",
     "static/media/profile.97cd0946.jpeg": "/static/media/profile.97cd0946.jpeg"
   },
   "entrypoints": [
@@ -24,6 +25,6 @@
     "static/css/2.ae9e5f60.chunk.css",
     "static/js/2.30c68ff8.chunk.js",
     "static/css/main.56a6bfdf.chunk.css",
-    "static/js/main.b983f6e1.chunk.js"
+    "static/js/main.979aff20.chunk.js"
   ]
 }
