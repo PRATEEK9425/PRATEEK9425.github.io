@@ -1,0 +1,167 @@
+.background {
+  background-color: #2b4162;
+  background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
+  border-bottom: yellowgreen 2px solid;
+}
+.navbar {
+  background-color: #9f5a4f;
+  background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
+}
+.nav-item a {
+  color: #fff;
+}
+.nav-item a:hover {
+  color: yellowgreen;
+}
+
+.span {
+  border-right: 3px yellowgreen solid;
+}
+.header-btn a {
+  color: #fff;
+}
+.header-btn a :hover {
+  color: black;
+}
+
+.img-border {
+  border: 2px yellowgreen solid;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.card-skills {
+  position: relative;
+  bottom: 15px;
+  border-radius: 1rem;
+  border: 2px solid yellowgreen;
+}
+.card-skill {
+  border-radius: 1rem;
+}
+
+.outerdiv {
+  width: 150px;
+  height: 30px;
+  /* border: 1px solid black; */
+  border-radius: 15px;
+  overflow: hidden;
+  background-color: #edf2f4;
+}
+.seventy {
+  width: 70%;
+  height: 30px;
+  background-color: tomato;
+  border-radius: 15px;
+}
+.sixty-five {
+  width: 65%;
+  height: 30px;
+  background-color: #fca311;
+  border-radius: 15px;
+}
+.eighty {
+  width: 80%;
+  height: 30px;
+  background-color: #1e6091;
+  border-radius: 15px;
+}
+
+.seventy-five {
+  width: 80%;
+  height: 30px;
+  background-color: #f3722c;
+  border-radius: 15px;
+}
+
+.eighty-five {
+  width: 85%;
+  height: 30px;
+  background-color: #4d908e;
+  border-radius: 15px;
+}
+.ninety {
+  width: 90%;
+  height: 30px;
+  background-color: #a4133c;
+  border-radius: 15px;
+}
+.ninety-five {
+  width: 95%;
+  height: 30px;
+  background-color: #b5e48c;
+  border-radius: 15px;
+}
+.cstyle {
+  width: 30px;
+  height: auto;
+}
+
+.aca-under {
+  display: block;
+  width: 60px;
+  height: 1px;
+  border: 1px solid black;
+}
+
+.timeline {
+  position: relative;
+  width: 75%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.timeline-box {
+  position: relative;
+  width: 45%;
+  min-height: 150px;
+
+  margin: 5px;
+}
+.timeline-box:nth-child(2n) {
+  left: 53%;
+}
+
+.img-thumbnaill {
+  width: 300px;
+  height: auto;
+  margin: auto;
+}
+
+.timeline-divider {
+  position: absolute;
+  height: 75%;
+  width: 0;
+  border: 3px dashed #0096fa6b;
+  top: 10%;
+  left: 50%;
+}
+.timeline-traveller {
+  position: sticky;
+  top: 25%;
+  transform: rotate(90deg);
+}
+.fa-car {
+  transform: rotate(-90deg);
+}
+hr {
+  width: 30%;
+  margin: auto;
+}
+
+.Footer {
+  overflow-x: hidden;
+  width: 100%;
+  height: auto;
+  background-color: #2b4162;
+  background-image: linear-gradient(315deg, #2b4162 0%, #12100e 74%);
+  border-top: yellowgreen 2px solid;
+}
+.mb {
+  margin-bottom: 5px;
+}
+.App{
+  background: linear-gradient(#2d6c94, #19a777);
+}
